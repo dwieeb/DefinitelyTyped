@@ -3,6 +3,8 @@
 // Definitions by: Torsten Werner <https://github.com/torstenwerner>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 
+/// <reference types="node" />
+
 declare module _fetch {
 
 	class Request extends Body {
